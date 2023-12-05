@@ -4,7 +4,7 @@ Hello and welcome to the digital showcase of my work and passions. This is the r
 
 ## About Me
 
-I'm Geethanjali, a [your profession or passion, e.g., software developer, digital artist, etc.]. I love exploring the intersection of technology and art, bringing ideas to life through my projects. My portfolio is a window into my professional achievements and personal endeavors.
+I'm Geethanjali, a software developer at BGSW. I love exploring the intersection of technology and art, bringing ideas to life through my projects. My portfolio is a window into my professional achievements and personal endeavors.
 
 ## My Portfolio
 
