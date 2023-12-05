@@ -8,13 +8,9 @@ I'm Geethanjali, a software developer at BGSW. I love exploring the intersection
 
 ## My Portfolio
 
-My portfolio, accessible at [Geethanjali's Portfolio](https://geethanjali2023.github.io/Geethanjali.P.github.io/), is a curated collection of my work. It includes:
+My portfolio, accessible at [Geethanjali's Portfolio](https://geethanjali2023.github.io/Geethanjali.P.github.io/), is a curated collection of my work. 
 
-- **Projects**: Showcasing my technical and creative skills.
-- **Artwork**: A display of my artistic ventures.
-- **Blog**: My thoughts on various topics, ranging from technology to lifestyle.
 
-Each section is a piece of my story, a part of what makes my professional journey unique.
 
 ## Contact & Social Media
 
