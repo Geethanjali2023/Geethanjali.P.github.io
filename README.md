@@ -20,8 +20,5 @@ Connecting and collaborating with like-minded individuals is something I cherish
 
 - [Email](mailto:p.geethanjali5561@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/)
-## Final Thoughts
-
-This portfolio is not just a showcase of my work; it's a growing canvas where I paint my career and aspirations. I hope it inspires you, as much as it inspires me to keep creating and exploring new horizons.
 
 Thank you for visiting!
