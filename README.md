@@ -8,7 +8,7 @@ I'm Geethanjali, a software developer at BGSW. I love exploring the intersection
 
 ## My Portfolio
 
-My portfolio, accessible at [Geethanjali's Portfolio](https://geethanjali2023.github.io/Geethanjali.P.github.io/), is a curated collection of my work. 
+My portfolio, accessible at [Geethanjali's Portfolio](https://geethanjali-p-github-io.pages.dev/), is a curated collection of my work. 
 
 
 
